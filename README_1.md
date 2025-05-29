@@ -217,12 +217,3 @@ FROM (
 FILE_FORMAT = (TYPE = 'CSV');
 ```
 ```
-
-This is Part 1 of the enhanced cheat sheet. Would you like me to continue with the remaining sections covering:
-1. Data Transformation Features
-2. Security & Governance
-3. Performance Optimization
-4. Monitoring & Maintenance
-5. Modern Features (Snowpark, Tasks, Streams)
-
-Each section will follow the same pattern of explaining WHAT, WHY, WHEN, and HOW to use each feature.
